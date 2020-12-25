@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "rocki": "^1.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "@jest/globals": "^26.6.2",
+    "jest": "^25.1.0"
+  }
+}
